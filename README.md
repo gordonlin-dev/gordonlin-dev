@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Gordon, a Full Stack Software Developer based in Toronto, Canada.
+
+I'm looking to contribute to Open-source projects in C#, Javascript or Python.
 
 <!--
 **gordonlin-dev/gordonlin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
